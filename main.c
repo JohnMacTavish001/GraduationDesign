@@ -13,8 +13,5 @@ void main()                                       //Ö÷º¯Êý£¬Ö÷Âß¼­
 	//Read();
 
 	system("pause");
-	
-	
-	
 
 }
